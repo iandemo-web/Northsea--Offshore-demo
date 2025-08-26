@@ -1854,7 +1854,7 @@ input, select, textarea {
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("../../images/helideck-1.jpg");
+		background: url("img/heliheader.jpg");
 		background-position: center center;
 		background-size: cover;
 		background-repeat: no-repeat;
