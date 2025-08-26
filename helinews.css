@@ -1854,14 +1854,13 @@ input, select, textarea {
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("../../images/helideck-1.jpg");
+		background: url("img/helideck\ DIFFS.jpg");
 		background-position: center center;
 		background-size: cover;
 		background-repeat: no-repeat;
 
 		padding: 3em 0;
 	}
-
 	#main-wrapper {
 		background: #fff;
 	}
